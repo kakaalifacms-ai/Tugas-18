@@ -28,7 +28,7 @@ function process() {
    Total nilai: ${total}<br>
    Rata-rata: ${rata.toFixed(2)}<br>
    Jumlah lulus: ${lulus}<br>
-   jumlah tidak lulu: ${tidakLulus  }
+   jumlah tidak lulus: ${tidakLulus  }
     </div> 
   `;
   
